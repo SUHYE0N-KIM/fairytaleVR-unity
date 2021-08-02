@@ -23,3 +23,13 @@
 | 개발언어 | C# |
 | 디바이스 | HTC VIVE Cosmos Elite |
 | 기타 | Steam VR, PUN2, 공공데이터 (고양시 어린이 도서관의 동화정보) |
+
+### 시스템 구성도
+![image05](https://user-images.githubusercontent.com/61134850/127846149-5a6b3e03-411e-4148-886d-67724784e2ad.png)
+
+
+### 플레이 예시
+![수정됨_image07](https://user-images.githubusercontent.com/61134850/127846351-79dad8fa-f6bb-49c2-9f5d-d458f876370f.png)
+![수정됨_image08](https://user-images.githubusercontent.com/61134850/127846355-2aad965c-1693-44ed-8204-0107e29fc6e0.png)
+![수정됨_image03](https://user-images.githubusercontent.com/61134850/127846054-0421a110-4aba-4c73-8e76-da171f8ceeaa.png)
+

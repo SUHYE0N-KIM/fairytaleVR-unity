@@ -23,5 +23,5 @@ https://youtu.be/rBowxEFV-h0
 The result of ICT mentoring project conducted through the support of the Ministry of Science and ICT's Information and Communication creative talent development project.
 
 ## ✔ License
-Copyright © 2020 SangwookYoo. (C-2020-043340, Korea Copyright Commission)<br />
+Copyright © 2020-present SangwookYoo. (C-2020-043340, Korea Copyright Commission)<br />
 This project is licensed under the MIT License - See the LICENSE.md file for details

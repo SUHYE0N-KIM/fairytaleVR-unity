@@ -13,9 +13,8 @@ https://youtu.be/rBowxEFV-h0
 
 ## ⚙ Development Environment
  * OS : Windows 10
- * Tool : Unity 3D 2019.3.5
- * SDK : Steam VR 1.13.10
- * Framework : Steam VR 2.6.0b4, PUN 2.32.0
+ * Tool : Unity 3D 2019.3.5f1
+ * API : Steam VR 2.6.0b4(sdk Steam VR 1.13.10), PUN 2.32.0
  * Device : HTC VIVE Cosmos Elite
  * ETC : Public data (Children's Library's Fairy Tale Information in Goyang, Korea)
 
